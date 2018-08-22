@@ -1,4 +1,4 @@
-#Teamworks - Udacity VR Group Projects[http://www.udacityvr.com/teamworks/]
+#[Teamworks - Udacity VR Group Projects](http://www.udacityvr.com/teamworks/)
 
 ## Team Ludus
 
@@ -6,4 +6,3 @@
 - Osama Nsr
 - Yinan Xiong
 - Rafael Ducati
-
