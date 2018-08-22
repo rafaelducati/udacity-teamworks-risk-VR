@@ -1,6 +1,6 @@
-#[Teamworks - Udacity VR Group Projects](http://www.udacityvr.com/teamworks/)
+# [Teamworks - Udacity VR Group Projects](http://www.udacityvr.com/teamworks/)
 
-## Team Ludus
+### Team Ludus
 
 - Rohit Wesley Thomas
 - Osama Nsr
